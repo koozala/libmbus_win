@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\mbus_tools\src\mbus-tcp-scan.c">
+    <ClCompile Include="mbus-tcp-scan.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
